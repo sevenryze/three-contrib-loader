@@ -1,0 +1,17 @@
+{
+  "name": "three-contrib-loader",
+  "version": "1.0.1",
+  "author": "Seven Ryze",
+  "description": "threejs contrib loader module for webpack",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/sevenryze/three-contrib-loader.git"
+  }
+}
